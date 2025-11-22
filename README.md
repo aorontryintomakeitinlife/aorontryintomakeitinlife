@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aoron</h1>
-<h3 align="center">im a computer graduate interested in all things AI and python! Currently hustling and griding on leetcode and python django daily !!😄</h3>
+<h3 align="center">im a computer graduate interested in all things AI and python! Currently hustling and grinding on leetcode and python django daily !!😄</h3>
 
 
 
