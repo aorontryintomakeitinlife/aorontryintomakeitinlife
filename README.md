@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aoron</h1>
 <h3 align="center">im a computer graduate interested in all things AI and python! Currently hustling and griding on leetcode and python django daily !!😄</h3>
 
-- 🌱 I’m currently learning **React**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
